@@ -1,3 +1,3 @@
 #Demo
 
-Desxription of this first project I'm posting
+Description of this first project I'm posting
